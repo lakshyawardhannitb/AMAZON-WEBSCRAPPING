@@ -18,4 +18,4 @@ for file in os.listdir(folder_path):
 merged_data.to_excel("/developer/amazon webscrapping/data/merged_output.xlsx", index=False)
 
 print("Merge completed successfully!")
-#this code is very important      
+#this code is very important so don't forget to add it 
